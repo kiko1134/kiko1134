@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **kiko1134/kiko1134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,23 +13,40 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Top languages -->
+# Hi there, I’m Kiko 👋
+
+I’m a **Full-Stack Dev** who loves building web apps, microservices, and automating workflows.
+
+---
+
+## 🌐 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=kiko1134&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kiko1134&layout=compact&theme=tokyonight)
 
-<!-- Overall stats -->
-![Stats](https://github-readme-stats.vercel.app/api?username=kiko1134&show_icons=true&theme=tokyonight)
+---
 
+## 🔥 Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kiko1134&theme=dark)
 
-<!-- Your GitHub “trophy case” -->
-<details>
-  <summary>🏅 Github Trophies</summary>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=kiko1134&theme=darkhub" alt="Trophies" />
-  </p>
-</details>
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kiko1134&theme=darkhub" alt="Trophies" />
+</p>
+
+---
+
+## 📈 Contribution Graph
 
 ![Contribution Graph](https://ghchart.rshah.org/kiko1134)
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=dark)
+---
+
+## 💬 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kiko1134-0077B5?logo=linkedin)](https://www.linkedin.com/in/christian-vassikov-04a434209/)
+
