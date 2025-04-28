@@ -15,7 +15,16 @@ Here are some ideas to get you started:
 
 # Hi there, I’m Kiko 👋
 
-I’m a **Full-Stack Dev** who loves building web apps, microservices, and automating workflows.
+<details>
+  <summary>👋 Hey, I’m Kiko!</summary>
+
+  🎨 **React-Obsessed Polyglot**  
+  🔹 Love sculpting dynamic UIs with JavaScript & TypeScript  
+  🔹 Architect robust back-ends in Node.js  
+  🔹 Full-stack problem-solver—delivering seamless, scalable web experiences
+
+</details>
+
 
 ---
 
