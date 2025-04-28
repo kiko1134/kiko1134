@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I’m Kiko 👋
 
-<details>
-  <summary>👋 Hey, I’m Kiko!</summary>
+
+<details open>
+  <summary><h2>👋 Hey, I’m Kiko!</h2></summary>
 
   🎨 **React-Obsessed Polyglot**  
   🔹 Love sculpting dynamic UIs with JavaScript & TypeScript  
